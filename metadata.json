@@ -1,0 +1,6 @@
+{
+  "name": "Korean Bhasa",
+  "description": "Complete Korean language learning app in Korean, Nepali, and English with EPS-TOPIK preparation, vocabulary, grammar, practice quizzes, and Korean culture and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
